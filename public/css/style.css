@@ -1,0 +1,41 @@
+.title01{
+    text-align: center;
+}
+
+.title02{
+    text-align: center;
+    padding-top: 70px;
+}
+
+.top1{
+    text-align: center;
+    padding-top: 1%;
+}
+
+.design01 {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    border-collapse: collapse;
+    border-spacing: 0;
+   }
+.design01 th {
+    padding: 10px;
+    background: #e9faf9;
+    border: solid 1px #778ca3;
+   }
+.design01 td {
+    padding: 10px;
+    border: solid 1px #778ca3;
+   }
+
+ .registerbox{
+    text-align: center;
+    padding-top: auto;
+    
+ }
+
+ .registerbutton{
+    text-align: center;
+    padding-top: 1em;
+ }
