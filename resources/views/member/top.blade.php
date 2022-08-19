@@ -9,6 +9,8 @@
     <title>一覧画面</title>
 </head>
 <body>
+
+
         <h1 class="title01">一覧表示</h1>
 
         <table class="design01">
@@ -35,6 +37,9 @@
         </table>
 
         <div class="top1"><a href="{{ route('member.register') }}">{{ __('新規作成') }}</a></div>
+
+
+        
 
 
 </body>
