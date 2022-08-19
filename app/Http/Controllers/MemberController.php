@@ -6,7 +6,7 @@ use App\Models\Member;
 use Illuminate\Support\Facades\DB;
 
 class MemberController extends Controller
-// aaa
+
 {
     public function top()
         {
